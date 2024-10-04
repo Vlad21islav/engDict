@@ -25,9 +25,5 @@ window.onload = function() {
             otv += words[i]
         }
     }
-    if ('\n' == '\n') {
-        console.log('yes')
-    }
-    console.log('\n')
     document.getElementById('block').innerHTML = otv;
 };

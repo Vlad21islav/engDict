@@ -1,2 +1,2 @@
 # engDict
-english words for dictation1
+english words for dictation

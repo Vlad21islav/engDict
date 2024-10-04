@@ -14,8 +14,10 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            background-color: ghostwhite;
-            font-size: 50%;
+            background-image: url('background.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: white;
         }
         .placeholder {
             flex: 1;
@@ -24,6 +26,15 @@
             width: 90%;
             min-width: 250px;
             max-width: 350px;
+        }
+        @media (min-width: 1200px) {
+            body { font-size: 2rem; }
+        }
+        @media (max-width: 1199px) and (min-width: 900px) {
+            body { font-size: 0.8rem; }            
+        }
+        @media (max-width: 899px) {
+            body { font-size: 0.7rem; }
         }
     </style>
 </head>

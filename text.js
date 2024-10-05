@@ -10,7 +10,7 @@ const word = `
     9.пытаемся справиться - struggle to cope,
     10. откачиваем воду - pump water out,
     11. теряют свои жизни - lose their lives,
-    12. медленно восстанавливаются - make a slow recovery
+    12. медленно восстанавливаются - make a slow recovery,
     13.дают образование - educational,
     14. заставляют задуматься - thought-provoking,
     15.предсказуемы - predictable,

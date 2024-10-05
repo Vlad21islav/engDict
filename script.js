@@ -4,7 +4,7 @@ window.onload = function() {
     let words = word
     let otv = ''
     for (let i = 0; i <= words.length - 1; i++) {
-        if (words[i] == ',') {
+        if (words[i] == '\n') {
             otv += '<br/>'
         } else {
             otv += words[i]

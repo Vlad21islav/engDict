@@ -1,6 +1,6 @@
 const word = `
     1. Погодные явления - weather phenomena
-    2. Странное явление - a weirdphenomenon
+    2. Странное явление - a weird phenomenon
     3. Написать мировые новости - make world news
     4. Восстановить озоновый слой - restore the ozone layer
     5. Облака постоянно врезаются друг в друга - clouds constantly crash into each other

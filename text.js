@@ -8,7 +8,7 @@ const word = `
     7. Очевидец - a witness
     8. Изумленный - astonished
     9. Происходят - occour
-    10. Льет как из ведра - raning cats and dogs
+    10. Льет как из ведра - raining cats and dogs
     11. Нет худа без добра - every cloud has a silver lining
     12. Друг хорошей погоды - a fair-weather friend
     13. Быть в тумане - to be in a fog

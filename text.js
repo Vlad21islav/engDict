@@ -1,20 +1,32 @@
 const word = `
-    1. Погодные явления - weather phenomena
-    2. Странное явление - a weird phenomenon
-    3. Написать мировые новости - make world news
-    4. Восстановить озоновый слой - restore the ozone layer
-    5. Облака постоянно врезаются друг в друга - clouds constantly crash into each other
-    6. Вызывают сильные грозы - cause violent lightning storms
-    7. Очевидец - a witness
-    8. Изумленный - astonished
-    9. Происходят - occur
-    10. Льет как из ведра - raining cats and dogs
-    11. Нет худа без добра - every cloud has a silver lining
-    12. Друг хорошей погоды - a fair-weather friend
-    13. Быть в тумане - to be in a fog
-    14. Неважно себя чувствовать - to be under the weather
-    15. Прогноз погоды - a weather forecast
-    16. Лесной пожар - a wildfire
+    разрабатывать текстили - develop textiles
+    вырабатывайть электричество - generate electricity
+    контролировать физическую форму - monitor fitness
+    распыляемая ткань - spray-on fabric
+    мельчайшие волокна - minute fibres
+    мгновенно высыхать - dry instantly
+    превращаться в - turn into
+    одежда - garment 
+    растворяться - dissolve 
+    поступать в продажу - go on sale
+    законодатель моды - trendsetter 
+    будка - booth 
+    заглянуть - drop in
+    посмотреть в - look into
+    бинт - bandage 
+    обивка мебели - furniture covering
+    полностью рабочий станок - fully-working machine
+    полностью функциональный - fully-functional
+    легче - lighter 
+    не требует сборки - no  assembly required
+    безграничные возможности - endless possibilities
+    картридж - cartridge
+    часть кожи - skin graft
+    жертва пожара - burn victim
+    по желанию - on demand
+    дайть рекомендации по питанию - give dietary advice
+    компьютер с голосовым управлением - a voice-activated computer
+    мгновенный доступ - instant access
     `
 
 export default word

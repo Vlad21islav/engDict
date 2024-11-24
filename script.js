@@ -15,11 +15,13 @@ for (let i = 0; i <= words.length - 1; i++) {
     }
 }
 document.getElementById('block').innerHTML = otv;
+let height = document.body.clientHeight
 let width = document.body.clientWidth
-document.getElementById('block').style.fontSize = `${width / 700}rem`
+document.getElementById('block').style.fontSize = `${Math.min(height / 700, width / 700)}rem`
 
 
 addEventListener('resize', (event) => {
+    let height = document.body.clientHeight
     let width = document.body.clientWidth
-    document.getElementById('block').style.fontSize = `${width / 700}rem`
+    document.getElementById('block').style.fontSize = `${Math.min(height / 700, width / 700)}rem`
 })

@@ -23,7 +23,7 @@ const word = `
     картридж - cartridge
     часть кожи - skin graft
     жертва пожара - burn victim
-    по желанию - on demand
+    по требованию - on demand
     дайть рекомендации по питанию - give dietary advice
     компьютер с голосовым управлением - a voice-activated computer
     мгновенный доступ - instant access

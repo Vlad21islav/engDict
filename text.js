@@ -1,32 +1,17 @@
 const word = `
-    разрабатывать текстили - develop textiles
-    вырабатывайть электричество - generate electricity
-    контролировать физическую форму - monitor fitness
-    распыляемая ткань - spray-on fabric
-    мельчайшие волокна - minute fibres
-    мгновенно высыхать - dry instantly
-    превращаться в - turn into
-    одежда - garment 
-    растворяться - dissolve 
-    поступать в продажу - go on sale
-    законодатель моды - trendsetter 
-    будка - booth 
-    заглянуть - drop in
-    посмотреть в - look into
-    бинт - bandage 
-    обивка мебели - furniture covering
-    полностью рабочий станок - fully-working machine
-    полностью функциональный - fully-functional
-    легче - lighter 
-    не требует сборки - no  assembly required
-    безграничные возможности - endless possibilities
-    картридж - cartridge
-    часть кожи - skin graft
-    жертва пожара - burn victim
-    по требованию - on demand
-    дайть рекомендации по питанию - give dietary advice
-    компьютер с голосовым управлением - a voice-activated computer
-    мгновенный доступ - instant access
+    bargain-hunting - охота за скидками
+    awareness - осведомленность
+    human rights - права человека.
+    green issues - экологические проблемы
+    goods - товары
+    treat smb (treat employees) - относиться к кому-то (относиться к сотрудникам)
+    purchase - покупка
+    seasonal retail shift - сезонные изменения в розничной торговле
+    but at reduced prices - но по сниженным ценам
+    moneysense - экономия
+    a responsible shopper - ответственный покупатель
+    under acceptable working conditions - при приемлемых условиях работы
+    take advantage of - воспользоваться этим преимуществом
     `
 
 export default word

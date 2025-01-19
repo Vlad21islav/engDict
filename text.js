@@ -8,7 +8,7 @@ const word = `
     покупка - purchase
     сезонные изменения в розничной торговле - seasonal retail shift
     но по сниженным ценам - but at reduced prices
-    экономия - moneysense
+    экономия - money sense
     ответственный покупатель - a responsible shopper
     при приемлемых условиях работы - under acceptable working conditions
     воспользоваться этим преимуществом - take advantage of

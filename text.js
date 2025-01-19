@@ -1,17 +1,17 @@
 const word = `
-    bargain-hunting - охота за скидками
-    awareness - осведомленность
-    human rights - права человека.
-    green issues - экологические проблемы
-    goods - товары
-    treat smb (treat employees) - относиться к кому-то (относиться к сотрудникам)
-    purchase - покупка
-    seasonal retail shift - сезонные изменения в розничной торговле
-    but at reduced prices - но по сниженным ценам
-    moneysense - экономия
-    a responsible shopper - ответственный покупатель
-    under acceptable working conditions - при приемлемых условиях работы
-    take advantage of - воспользоваться этим преимуществом
+    охота за скидками - bargain-hunting
+    осведомленность - awareness
+    права человека - human rights
+    экологические проблемы - green issues
+    товары - goods
+    относиться к кому-то (относиться к сотрудникам) - treat smb (treat employees)
+    покупка - purchase
+    сезонные изменения в розничной торговле - seasonal retail shift
+    но по сниженным ценам - but at reduced prices
+    экономия - moneysense
+    ответственный покупатель - a responsible shopper
+    при приемлемых условиях работы - under acceptable working conditions
+    воспользоваться этим преимуществом - take advantage of
     `
 
 export default word
